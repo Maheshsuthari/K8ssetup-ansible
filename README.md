@@ -9,7 +9,7 @@ Internet access, this playground pulls Vagrant boxes from the Internet as well a
 Bringing Up The cluster
 To bring up the cluster, clone this repository to a working directory.
 
-git clone http://github.com/davidkbainbridge/k8s-playground
+git clone http://github.com/davidkbainbridge/k8ssetup-ansible
 Change into the working directory and vagrant up
 
 cd k8ssetup-ansible
